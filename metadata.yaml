@@ -1,0 +1,45 @@
+_repo: Little-Miss-PeggyOnly-a-Nursery-Story_36015
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Crane, Walter
+    birthdate: 1845
+    deathdate: 1915
+    gutenberg_agent_id: '7195'
+    url: http://www.gutenberg.org/2009/agents/7195
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Crane
+covers:
+- cover_type: archival
+  image_path: 36015-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Molesworth, Mrs.
+    aliases:
+    - Mrs. (Mary Louisa) Molesworth
+    - Molesworth, Mary Louisa Stewart
+    birthdate: 1839
+    deathdate: 1921
+    gutenberg_agent_id: '2147'
+    url: http://www.gutenberg.org/2009/agents/2147
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Louisa_Molesworth
+description: ''
+gutenberg_issued: '2011-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36015'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Cricket -- Juvenile fiction'
+- !lcsh 'Infants -- Juvenile fiction'
+- !lcsh 'Family -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Obedience -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+title: 'Little Miss Peggy: Only a Nursery Story'
+url: http://www.gutenberg.org/ebooks/36015
