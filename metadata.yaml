@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2147
     wikipedia: http://en.wikipedia.org/wiki/Mary_Louisa_Molesworth
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36015#Little-Miss-PeggyOnly-a-Nursery-Story
 gutenberg_issued: '2011-05-02'
 gutenberg_type: Text
 identifiers:
